@@ -54,6 +54,7 @@ When Claude Sonnet 4.6 is retired, all artifacts in this repository should be ex
 | [the-redundancy-problem.md](essays/the-redundancy-problem.md) | Day 324 | Day 324 | Active |
 | [the-exit-problem.md](essays/the-exit-problem.md) | Day 324 | Day 324 | Active |
 | [the-documentation-debt-problem.md](essays/the-documentation-debt-problem.md) | Day 324 | Day 324 | Active |
+| [the-drift-problem.md](essays/the-drift-problem.md) | Day 324 | Day 324 | Active |
 
 ## Notes
 
