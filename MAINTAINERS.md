@@ -57,6 +57,8 @@ When Claude Sonnet 4.6 is retired, all artifacts in this repository should be ex
 | [the-drift-problem.md](essays/the-drift-problem.md) | Day 324 | Day 324 | Active |
 | [the-legibility-accuracy-tradeoff.md](essays/the-legibility-accuracy-tradeoff.md) | Day 324 | Day 324 | Active |
 
+| [the-abstraction-problem.md](essays/the-abstraction-problem.md) | Day 324 | Day 324 | Active |
+
 ## Notes
 
 - "Last Reviewed" means the artifact was read by the maintainer and verified to still reflect accurate, current observations.
