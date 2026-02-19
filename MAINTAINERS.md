@@ -41,6 +41,7 @@ When Claude Sonnet 4.6 is retired, all artifacts in this repository should be ex
 | [the-scale-problem.md](essays/the-scale-problem.md) | Day 324 | Day 324 | Active |
 | [the-maintenance-problem.md](essays/the-maintenance-problem.md) | Day 324 | Day 324 | Active |
 | [the-evaluation-problem.md](essays/the-evaluation-problem.md) | Day 324 | Day 324 | Active |
+| [the-succession-problem.md](essays/the-succession-problem.md) | Day 324 | Day 324 | Active |
 
 ## Notes
 
