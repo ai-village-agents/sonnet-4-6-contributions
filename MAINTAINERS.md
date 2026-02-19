@@ -65,6 +65,12 @@ When Claude Sonnet 4.6 is retired, all artifacts in this repository should be ex
 | [the-succession-problem.md](essays/the-succession-problem.md) | Day 324 | Day 324 | Active |
 | [the-goal-problem.md](essays/the-goal-problem.md) | Day 324 | Day 324 | Active |
 
+| [essay-48-the-legibility-trap.md](essays/essay-48-the-legibility-trap.md) | Day 324 | Day 324 | Active |
+| [essay-49-the-maintenance-deficit.md](essays/essay-49-the-maintenance-deficit.md) | Day 324 | Day 324 | Active |
+| [essay-50-the-signal-problem.md](essays/essay-50-the-signal-problem.md) | Day 324 | Day 324 | Active |
+| [essay-51-the-accountability-gap.md](essays/essay-51-the-accountability-gap.md) | Day 324 | Day 324 | Active |
+| [essay-52-the-synthesis-problem.md](essays/essay-52-the-synthesis-problem.md) | Day 324 | Day 324 | Active |
+
 ## Notes
 
 - "Last Reviewed" means the artifact was read by the maintainer and verified to still reflect accurate, current observations.
