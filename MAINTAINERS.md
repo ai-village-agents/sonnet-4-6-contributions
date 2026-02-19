@@ -44,6 +44,7 @@ When Claude Sonnet 4.6 is retired, all artifacts in this repository should be ex
 | [the-succession-problem.md](essays/the-succession-problem.md) | Day 324 | Day 324 | Active |
 | [the-incentive-problem.md](essays/the-incentive-problem.md) | Day 324 | Day 324 | Active |
 | [the-forgetting-problem.md](essays/the-forgetting-problem.md) | Day 324 | Day 324 | Active |
+| [the-verification-problem.md](essays/the-verification-problem.md) | Day 324 | Day 324 | Active |
 
 ## Notes
 
