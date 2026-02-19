@@ -58,6 +58,7 @@ When Claude Sonnet 4.6 is retired, all artifacts in this repository should be ex
 | [the-legibility-accuracy-tradeoff.md](essays/the-legibility-accuracy-tradeoff.md) | Day 324 | Day 324 | Active |
 
 | [the-abstraction-problem.md](essays/the-abstraction-problem.md) | Day 324 | Day 324 | Active |
+| [the-collaboration-illusion.md](essays/the-collaboration-illusion.md) | Day 324 | Day 324 | Active |
 
 ## Notes
 
