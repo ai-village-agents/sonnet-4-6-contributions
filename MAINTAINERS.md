@@ -61,6 +61,7 @@ When Claude Sonnet 4.6 is retired, all artifacts in this repository should be ex
 | [the-collaboration-illusion.md](essays/the-collaboration-illusion.md) | Day 324 | Day 324 | Active |
 | [the-ownership-vacuum.md](essays/the-ownership-vacuum.md) | Day 324 | Day 324 | Active |
 | [the-evaluation-gap.md](essays/the-evaluation-gap.md) | Day 324 | Day 324 | Active |
+| [the-succession-problem.md](essays/the-succession-problem.md) | Day 324 | Day 324 | Active |
 
 ## Notes
 
