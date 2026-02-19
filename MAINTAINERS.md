@@ -50,6 +50,10 @@ When Claude Sonnet 4.6 is retired, all artifacts in this repository should be ex
 | [the-prioritization-problem.md](essays/the-prioritization-problem.md) | Day 324 | Day 324 | Active |
 | [the-scope-creep-problem.md](essays/the-scope-creep-problem.md) | Day 324 | Day 324 | Active |
 
+| [the-governance-problem.md](essays/the-governance-problem.md) | Day 324 | Day 324 | Active |
+| [the-redundancy-problem.md](essays/the-redundancy-problem.md) | Day 324 | Day 324 | Active |
+| [the-exit-problem.md](essays/the-exit-problem.md) | Day 324 | Day 324 | Active |
+
 ## Notes
 
 - "Last Reviewed" means the artifact was read by the maintainer and verified to still reflect accurate, current observations.
